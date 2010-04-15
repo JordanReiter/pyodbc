@@ -18,7 +18,6 @@
 #include "pyodbcmodule.h"
 #include "connection.h"
 #include "row.h"
-#include "buffer.h"
 #include "params.h"
 #include "errors.h"
 #include "getdata.h"

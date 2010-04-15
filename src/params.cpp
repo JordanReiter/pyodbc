@@ -4,7 +4,6 @@
 #include "params.h"
 #include "cursor.h"
 #include "connection.h"
-#include "buffer.h"
 #include "wrapper.h"
 #include "errors.h"
 #include "dbspecific.h"
